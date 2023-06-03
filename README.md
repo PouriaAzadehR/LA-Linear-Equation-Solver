@@ -4,13 +4,14 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## INPUT & OUTPUT 
+
 ![image](https://github.com/PouriaAzadehR/LA-Linear-Equation-Solver/assets/93463377/5c7d6f28-acda-461d-bd09-b0c2971d9e8d)
 
 
 ![image](https://github.com/PouriaAzadehR/LA-Linear-Equation-Solver/assets/93463377/75141c2e-9dbf-4b68-86d7-1996b123ea82)
 
 
-It should be noiced that free variables are equalt to 10
+It should be noiced that free variables are equal to 10
 
 ![image](https://github.com/PouriaAzadehR/LA-Linear-Equation-Solver/assets/93463377/3ed46df0-7f26-4c2b-a26c-e7db2f88dbd0)
 
