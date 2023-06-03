@@ -1,7 +1,34 @@
 # Linear Equation Solver
 
-## Overall, this code provides a basic implementation of Gaussian elimination and reduced row echelon form to solve systems of linear equations. It can be extended and customized to suit specific needs and further enhanced with additional functionality as required.
+### Overall, this code provides a basic implementation of Gaussian elimination and reduced row echelon form to solve systems of linear equations. It can be extended and customized to suit specific needs and further enhanced with additional functionality as required.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## INPUT & OUTPUT 
+![image](https://github.com/PouriaAzadehR/LA-Linear-Equation-Solver/assets/93463377/5c7d6f28-acda-461d-bd09-b0c2971d9e8d)
+
+
+![image](https://github.com/PouriaAzadehR/LA-Linear-Equation-Solver/assets/93463377/aa3df9da-f883-4ea6-9ce2-b5b6deb00b29)
+
+![image](https://github.com/PouriaAzadehR/LA-Linear-Equation-Solver/assets/93463377/75141c2e-9dbf-4b68-86d7-1996b123ea82)
+
+
+It should be noiced that free variables are equalt to 10
+![image](https://github.com/PouriaAzadehR/LA-Linear-Equation-Solver/assets/93463377/3ed46df0-7f26-4c2b-a26c-e7db2f88dbd0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### It contains several methods  for solving linear equations namely:
 1- getting_input
 
