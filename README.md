@@ -66,7 +66,7 @@ It should be noiced that free variables are equal to 10
 
 
 
-2- The smallest_pivot_position method finds the position of the smallest pivot in the matrix, given a specific row number. It iterates over the rows below the specified row, identifies the first non-zero element in each row, and returns the position of the smallest non-zero element.
+2- The smallest_pivot_position method finds the position of the smallest pivot in the matrix, given a specific row number. It iterates over the rows below the specified row,identifies the first non-zero element in each row, and returns the position of the smallest non-zero element.
 
 ![image](https://github.com/PouriaAzadehR/LA-Linear-Equation-Solver/assets/93463377/6fdc243f-028a-4abf-9495-accaadc5df6e)
 
